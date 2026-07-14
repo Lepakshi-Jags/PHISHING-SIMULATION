@@ -1,0 +1,11 @@
+url,label
+https://www.google.com,legitimate
+https://www.amazon.in,legitimate
+https://www.microsoft.com,legitimate
+https://www.apple.com,legitimate
+https://www.wikipedia.org,legitimate
+http://secure-login-paypal.verify-account.com,phishing
+http://bank-update-info-login.com,phishing
+http://free-gift-card-winner.ru,phishing
+http://login-facebook-security-check.xyz,phishing
+http://account-verification-required.net,phishing
