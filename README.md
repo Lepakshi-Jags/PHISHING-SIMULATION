@@ -1,3 +1,4 @@
+
 # 🔐 AI-Powered Phishing URL Detection Dashboard
 
 An end-to-end machine learning and cybersecurity project that detects whether a URL is legitimate or phishing based on URL structure, lexical features, and suspicious patterns.
@@ -158,3 +159,5 @@ Add deep learning-based URL classification
 ⚠️ Disclaimer
 
 This project is built for educational, cybersecurity learning, and portfolio purposes. It should not be used as a replacement for professional cybersecurity tools.
+=======
+# PHISHING-SIMULATION
